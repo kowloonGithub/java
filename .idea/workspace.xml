@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15639e8-846a-4dcb-98b9-08f1d3d80327" name="Default Changelist" comment="" />
+    <list default="true" id="f15639e8-846a-4dcb-98b9-08f1d3d80327" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo2/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo2/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/innerclass_/innerclassthread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/runnable_/runnable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/runnable_/runnable_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/sleep_/sleep_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/lambda1/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/lambda1/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/lambda_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadpoll/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadpoll/thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe/runnableticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe2/runnabletick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe3/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe3/runnabletick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/waitandnotify/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/waitandnotify/demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,114 +33,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/array/Demo01Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/exception_.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-20">
-              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/thread_.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo1/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding>
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo1/demo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/string_/stringbuilder_.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/collection_/collection_.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/doudizhu/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/map/map_.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -126,6 +42,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -157,10 +76,34 @@
         <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/thread_.java" />
         <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo1/MyThread.java" />
         <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo1/demo1.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo2/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo2/demo.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo3/sleep_.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/sleep_/sleep_.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/runnable_/runnable1.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/runnable_/runnable_.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/innerclass_/innerclassthread.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe/demo.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe/runnableticket.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/threadsafe2/runnabletick.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe2/runnabletick.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe3/runnabletick.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe3/demo.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/waitandnotify/demo2.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/waitandnotify/demo1.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadpoll/thread.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadpoll/demo.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/thread.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/demo1.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/lambda1/Cook.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/lambda_.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/lambda1/demo.java" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/base/file/file.md" />
+        <option value="$PROJECT_DIR$/src/top/lijiulong/web/servlet/servletdemo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -171,8 +114,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,24 +130,7 @@
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-              <item name="exceptionAndThread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-              <item name="exceptionAndThread" type="462c0819:PsiDirectoryNode" />
-              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -215,7 +141,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565092217301" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565163428824" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../h5-promotion" />
   </component>
   <component name="RunDashboard">
@@ -230,13 +156,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo1">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.lijiulong.base.doudizhu.Demo" />
+  <component name="RunManager" selected="Application.demo (1)">
+    <configuration name="demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.lijiulong.base.exceptionAndThread.threadlambda.lambda1.demo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.lijiulong.base.doudizhu.*" />
+          <option name="PATTERN" value="top.lijiulong.base.exceptionAndThread.threadlambda.lambda1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.lijiulong.base.exceptionAndThread.threadpoll.demo" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.lijiulong.base.exceptionAndThread.threadpoll.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,11 +184,11 @@
       </method>
     </configuration>
     <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.lijiulong.base.exceptionAndThread.demo1.demo1" />
+      <option name="MAIN_CLASS_NAME" value="top.lijiulong.base.exceptionAndThread.waitandnotify.demo1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.lijiulong.base.exceptionAndThread.demo1.*" />
+          <option name="PATTERN" value="top.lijiulong.base.exceptionAndThread.waitandnotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exception_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.lijiulong.base.exceptionAndThread.exception_" />
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.lijiulong.base.exceptionAndThread.threadlambda.demo1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.lijiulong.base.exceptionAndThread.*" />
+          <option name="PATTERN" value="top.lijiulong.base.exceptionAndThread.threadlambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,25 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="map_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.lijiulong.base.map.map_" />
+    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.lijiulong.base.exceptionAndThread.waitandnotify.demo2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.lijiulong.base.map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="thread_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.lijiulong.base.exceptionAndThread.thread_" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.lijiulong.base.exceptionAndThread.*" />
+          <option name="PATTERN" value="top.lijiulong.base.exceptionAndThread.waitandnotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,19 +223,17 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.map_" />
-      <item itemvalue="Application.exception_" />
-      <item itemvalue="Application.thread_" />
       <item itemvalue="Application.demo1" />
+      <item itemvalue="Application.demo2" />
+      <item itemvalue="Application.demo" />
+      <item itemvalue="Application.demo (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo (1)" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.demo2" />
         <item itemvalue="Application.demo1" />
-        <item itemvalue="Application.thread_" />
-        <item itemvalue="Application.exception_" />
-        <item itemvalue="Application.map_" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -325,17 +249,17 @@
       <updated>1565060046236</updated>
       <workItem from="1565060049573" duration="2241000" />
       <workItem from="1565063431690" duration="9226000" />
+      <workItem from="1565141390781" duration="11153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11467000" />
+    <option name="totallyTimeSpent" value="22620000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -344,17 +268,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -371,13 +295,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/top/lijiulong/class/Demo01Class.kt" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/scanner_random_list/scanner_.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -442,13 +359,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/string_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/string_.java" />
     <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/data_/calendar_.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -473,50 +384,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/collection_/collection_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/doudizhu/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/map/HashMap_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/map/map_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/string_/stringbuilder_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/map/HashMap_.java" />
     <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/array/Demo01Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -526,8 +394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/exception_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state relative-caret-position="228">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -548,21 +416,278 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/string_/stringbuilder_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/collection_/collection_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/doudizhu/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/map/map_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo1/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding>
             <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo1/demo1.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo2/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/demo2/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/sleep_/sleep_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/runnable_/runnable1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/runnable_/runnable_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/innerclass_/innerclassthread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="28" column="86" selection-start-line="28" selection-start-column="86" selection-end-line="28" selection-end-column="86" />
+          <folding>
+            <element signature="e#146#321#1" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#425#603#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#713#888#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe/runnableticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe2/runnabletick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe3/runnabletick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadsafe3/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadpoll/thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadpoll/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#238#411#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#464#637#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/lambda1/Cook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/file/file.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/web/servlet/servletdemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/lambda1/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#153#286#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/threadlambda/lambda_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="16" selection-end-column="57" />
+          <folding>
+            <element signature="e#148#321#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/waitandnotify/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="70" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
+          <folding>
+            <element signature="e#189#415#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#827#987#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1468#1909#0" expanded="true" />
+            <element signature="e#1908#1909#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/lijiulong/base/exceptionAndThread/waitandnotify/demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#380#606#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#982#1400#0" expanded="true" />
+            <element signature="e#1399#1400#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

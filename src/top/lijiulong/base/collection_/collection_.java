@@ -26,4 +26,12 @@ public class collection_ {
         System.out.println(coll.contains("Kowloon1"));
         System.out.println(coll.isEmpty());
     }
+
+    /**
+     * 容器深入研究
+     */
+    public static void main1(){
+
+
+    }
 }

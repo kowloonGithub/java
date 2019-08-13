@@ -39,7 +39,7 @@ public class Demo01 {
     }
 
     public static <K, V> HashMap<K, V> newInstance(){
-        return new HashMap<K, V>();
+        return new HashMap<K, V>(1);
 
     }
 }

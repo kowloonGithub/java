@@ -2,80 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f15639e8-846a-4dcb-98b9-08f1d3d80327" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/Supplier/Demo01Supplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/Supplier/SupplierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/comsumer/Demo01Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/comsumer/Demo02AndThen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/function/Demo01Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/functionInterface/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/functionInterface/myFunctionInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/functionInterface/myFunctionInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/lambda/MessageBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/lambda/demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/lambda/demo02lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/lambdaTest/Demo1Runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/lambdaTest/Demo2Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/predicate/Demo01Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/predicate/Demo02Predicate_and.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/predicate/Demo03Predicate_or.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/predicate/Demo04Predicate_no.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/base/lambda/predicate/Demo05_Predicate_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/effectiveJava/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo01/Demo01List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo01/Demo02Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo02/Demo01GetStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo02/Demo02ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo02/Demo03Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo02/Demo04Stream_map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo02/Demo05Stream_count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo02/Demo06Stream_limit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo02/Demo07Stream_skip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo02/Demo08Stream_concat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo03/Demo01StreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo03/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo04/Demo01Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo04/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo05/Demo01ObjectMethodReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo05/MethodRerObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo05/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo06/Calcable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo06/Demo01StaticMethodReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo07/Greetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo07/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo07/man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo08/Husband.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo08/Richable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo09/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo09/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo09/PersonBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo10/ArrayMethodReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/stream/demo10/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/zk/HelloZookeeper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/effectiveJava/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/effectiveJava/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/effectiveJava/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/lijiulong/effectiveJava/Demo06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/META-INF/Java.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/META-INF/Java.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/Ilterator/itlerator_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/Ilterator/itlerator_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/array/Demo01Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/array/Demo01Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/class_/Demo01Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/class_/Demo01Class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/collection_/collection_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/collection_/collection_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/data_/calendar_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/data_/calendar_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/data_/data_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/data_/data_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/data_/dataformat_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/data_/dataformat_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/doudizhu/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/doudizhu/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/exceptionAndThread/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/exceptionAndThread/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/exceptionAndThread/demo1/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/exceptionAndThread/demo1/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/exceptionAndThread/demo1/demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/exceptionAndThread/demo1/demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/exceptionAndThread/exception_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/exceptionAndThread/exception_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/exceptionAndThread/thread_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/exceptionAndThread/thread_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/map/map_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/map/map_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/object/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/object/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/object/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/object/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/scanner_random_list/arraylist_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/scanner_random_list/arraylist_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/scanner_random_list/random_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/scanner_random_list/random_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/scanner_random_list/scanner_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/scanner_random_list/scanner_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/string_/stringbuilder_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/base/string_/stringbuilder_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/effectiveJava/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/top/lijiulong/effectiveJava/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/top/lijiulong/zk/HelloZookeeper.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/top/lijiulong/effectiveJava/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/lijiulong/effectiveJava/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/lijiulong/effectiveJava/Demo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/lijiulong/effectiveJava/Demo02.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Husband">
+  <component name="RunManager" selected="Application.Demo03">
     <configuration name="Demo01ObjectMethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.lijiulong.stream.demo05.Demo01ObjectMethodReference" />
       <module name="Java" />
@@ -146,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.lijiulong.stream.demo03.Demo01StreamTest" />
+    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.lijiulong.effectiveJava.Demo03" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.lijiulong.stream.demo03.*" />
+          <option name="PATTERN" value="top.lijiulong.effectiveJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,19 +121,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo01StreamTest" />
       <item itemvalue="Application.Demo01ObjectMethodReference" />
       <item itemvalue="Application.Demo01StaticMethodReference" />
       <item itemvalue="Application.man" />
       <item itemvalue="Application.Husband" />
+      <item itemvalue="Application.Demo03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo03" />
         <item itemvalue="Application.Husband" />
         <item itemvalue="Application.man" />
         <item itemvalue="Application.Demo01StaticMethodReference" />
         <item itemvalue="Application.Demo01ObjectMethodReference" />
-        <item itemvalue="Application.Demo01StreamTest" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +161,8 @@
       <workItem from="1565665684627" duration="2631000" />
       <workItem from="1565674790912" duration="123000" />
       <workItem from="1565675032032" duration="5854000" />
-      <workItem from="1565682264453" duration="6699000" />
+      <workItem from="1565682264453" duration="7057000" />
+      <workItem from="1565695121895" duration="4425000" />
     </task>
     <task id="LOCAL-00001" summary="java base">
       <created>1565163459333</created>
@@ -235,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565163459333</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lambda stream">
+      <created>1565691133918</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565691133918</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +199,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java base" />
-    <option name="LAST_COMMIT_MESSAGE" value="java base" />
+    <MESSAGE value="lambda stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda stream" />
   </component>
 </project>

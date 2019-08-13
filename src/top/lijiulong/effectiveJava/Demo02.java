@@ -7,9 +7,9 @@ package top.lijiulong.effectiveJava;
  * @date: 2019/08/12 10:13
  *
  * 1、多参数时
- * 可以使用多个参数构造器， 缺点：实现起来不方便
- * 也可以无参数构造器+setter方法 缺点：javaBean可能处于不一致状态，阻止了把类变成不可变的可能，需要保护线程安全
- * Builder模式：
+ * 一：可以使用多个参数构造器， 缺点：实现起来不方便
+ * 二：也可以无参数构造器+setter方法 缺点：javaBean可能处于不一致状态，阻止了把类变成不可变的可能，需要保护线程安全
+ * 三：Builder模式：
  *
  */
 public class Demo02 {
